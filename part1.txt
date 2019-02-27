@@ -1,5 +1,5 @@
 <TEI> 
-    <teiHeader> https://rvb.ru/18vek/maykov/01text/01ic_poems/001.htm
+    <teiHeader> 
         <fileDesc>
             <titleStmt>
                <title>Кавказские повести</title>
